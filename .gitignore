@@ -1,0 +1,8 @@
+# Compiled Java class files
+*.class
+
+# OS / editor noise
+.DS_Store
+.idea/
+*.iml
+.vscode/
