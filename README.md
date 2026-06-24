@@ -13,6 +13,7 @@ Legend: `[x]` Done · `[~]` In Progress · `[ ]` Not Started
 ### Phase 1 - Foundations
 | # | Topic | Status | Folder |
 |---|-------|--------|--------|
+| 0 | Foundations (start here) | [~] | [`00-foundations`](./00-foundations) |
 | 1 | Arrays | [~] | [`01-arrays`](./01-arrays) |
 | 2 | Strings | [ ] | [`02-strings`](./02-strings) |
 | 3 | Searching (Linear and Binary) | [ ] | [`03-searching`](./03-searching) |
